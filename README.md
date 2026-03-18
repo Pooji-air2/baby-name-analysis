@@ -16,6 +16,7 @@ This project analyzes baby name trends using real-world data.
 - Year-wise analysis
 - Gender-based trends
 - Top 100 popular names visualization
+- Top 20 popular name visualization
 
 📸 Output
 
